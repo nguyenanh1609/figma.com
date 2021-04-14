@@ -99,6 +99,19 @@ span:hover {
   border-bottom: 1px solid rgb(85, 81, 255);
 }
 /* content three*/
+
+/* list brands */
+
+.list-brands{
+  height: 340px;
+  background-color: black;
+  padding: 70px 0px;
+}
+.list-brands >h1{
+  color: #fff;
+  text-align:center;
+}
+
 /* form */
 .form {
   text-align: center;
