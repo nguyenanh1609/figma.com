@@ -106,16 +106,30 @@ span:hover {
   height: 340px;
   background-color: black;
   padding: 70px 0px;
+  margin-bottom: 100px;
+  text-align: center;
 }
 .list-brands >h1{
   color: #fff;
   text-align:center;
+}
+.list-brands .list-brands-item{
+  display: grid;
+  grid-template-columns: 100px 100px 100px 100px 100px 100px  ;
+  grid-template-rows: 100px 100px ;
+  color: #fff;
+  justify-content:center;
+  align-content:center;
+  align-items: center;
 }
 
 /* form */
 .form {
   text-align: center;
   margin-bottom: 200px;
+}
+.form >h1{
+  font-weight: 900;
 }
 .form .google {
   width: 300px;
