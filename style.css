@@ -49,11 +49,14 @@ header .nav .navsub {
   align-items: center;
 }
 .content-double-layer .content-double-layer1 {
-  padding-right: 100px;
+  /* padding-right: 100px; */
+  margin: 0px 20px;
   flex-basis: 550px;
 }
 .content-double-layer .content-double-layer2 {
   flex-basis: 550px;
+  margin: 0px 20px;
+
 }
 .content-double-layer1 .text1 {
   font-size: 20px;
